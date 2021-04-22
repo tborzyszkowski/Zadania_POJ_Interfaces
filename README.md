@@ -19,7 +19,9 @@ tzw. *Logger*. *Logger* uwzględnia:
 - źródło zdarzenia: *EventSource*
 - komunikat typu *String*
 
-Zobacz na diagramie: ![Safe diagram](./sejf.png)
+Zobacz na diagramie:
+
+![Safe diagram](./sejf.png)
 
 ## Zadanie 1 (4 punkty)
 Zaimplementuj klasę *Safe* wraz z wymaganymi klasami *Alarm* i *PinEvent*, bez systemu rejestracji zdarzeń. 
